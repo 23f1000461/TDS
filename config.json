@@ -1,16 +1,16 @@
 {
   "appName": "q-git-time-travel",
-  "version": "2.14.5",
+  "version": "1.15.9",
   "environment": "production",
   "settings": {
-    "timeout": 1200,
-    "retries": 1,
-    "maxConnections": 86,
+    "timeout": 240,
+    "retries": 2,
+    "maxConnections": 10,
     "debug": false,
-    "logLevel": "info"
+    "logLevel": "debug"
   },
   "metadata": {
-    "lastUpdated": "2025-08-27T05:36:18.000Z",
+    "lastUpdated": "2025-08-27T03:59:00.000Z",
     "updatedBy": "Carol Moore"
   }
 }
