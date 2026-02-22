@@ -16,8 +16,7 @@ jobs:
         id: cache-step
         uses: actions/cache@v4
         with:
-          path: |
-            ~/.cache/pip
+          path: ~/.cache/pip
           key: cache-bd3f66b
 
       - name: prime-cache-bd3f66b
