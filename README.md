@@ -1,9 +1,5 @@
-# q-git-time-travel
+# TDS Repository
 
-Version 3.49.9
+This repository contains coursework for TDS.
 
-A sample project for testing.
-
-## Configuration
-
-See config.json for settings.
+GitHub Action configured successfully.
