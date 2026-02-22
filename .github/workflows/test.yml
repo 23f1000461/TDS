@@ -2,7 +2,7 @@ name: TDS Action Test
 
 on:
   push:
-  workflow_dispatch:
+  workflow_dispatch:   # remove push trigger
 
 jobs:
   test:
